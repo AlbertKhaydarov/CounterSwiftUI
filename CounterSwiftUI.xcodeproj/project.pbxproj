@@ -11,6 +11,7 @@
 		7C86EFEA2AE9A66B00D481CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C86EFE92AE9A66B00D481CC /* ContentView.swift */; };
 		7C86EFEC2AE9A66D00D481CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C86EFEB2AE9A66D00D481CC /* Assets.xcassets */; };
 		7C86EFEF2AE9A66D00D481CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C86EFEE2AE9A66D00D481CC /* Preview Assets.xcassets */; };
+		84104AA72AEAC1E0001A4503 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84104AA62AEAC1E0001A4503 /* TextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7C86EFE92AE9A66B00D481CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7C86EFEB2AE9A66D00D481CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C86EFEE2AE9A66D00D481CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		84104AA62AEAC1E0001A4503 /* TextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				7C86EFE92AE9A66B00D481CC /* ContentView.swift */,
 				7C86EFEB2AE9A66D00D481CC /* Assets.xcassets */,
 				7C86EFED2AE9A66D00D481CC /* Preview Content */,
+				84104AA62AEAC1E0001A4503 /* TextView.swift */,
 			);
 			path = CounterSwiftUI;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84104AA72AEAC1E0001A4503 /* TextView.swift in Sources */,
 				7C86EFEA2AE9A66B00D481CC /* ContentView.swift in Sources */,
 				7C86EFE82AE9A66B00D481CC /* CounterSwiftUIApp.swift in Sources */,
 			);
